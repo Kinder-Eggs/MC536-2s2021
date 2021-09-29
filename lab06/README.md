@@ -1,7 +1,7 @@
 # Aluno
 * Gabriel Costa Kinder - 234720
 
-# Análise do Artigo `<título do artigo>`
+# Análise do Artigo: "CandiDATA: um dataset para análise das eleições no Brasil"
 
 | campo | valor |
 |------------|----------------------------------------|
