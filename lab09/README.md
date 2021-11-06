@@ -5,6 +5,6 @@
 ![Modelo Lógico de Grafos](images/modelo-grafo-conhecimento.png)
 
 ## Perguntas de Pesquisa ou Queries
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+* O sintoma X pode indicar qual doença?
+* Quais sintomas podem indicar a doença Y?
+* A união de X, Y e Z sintomas, indicam qual doença?
